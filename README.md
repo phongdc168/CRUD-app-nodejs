@@ -1,5 +1,11 @@
 # CRUD-app-nodejs
-Demo CRUD app use nodejs
+
+## Demo CRUD app: app account manager system using nodejs
+
+### Feature:
+- Create new account.
+- Update account.
+- Delete account.
 
 ## To run this project you can follow the steps below:
 - Clone this project with git clone command.
