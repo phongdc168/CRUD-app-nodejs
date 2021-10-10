@@ -1,6 +1,6 @@
 # CRUD-app-nodejs
 
-## Demo CRUD app: app account manager system using nodejs
+## Demo CRUD app: app account manager system using Nodejs
 
 ### Feature:
 - Create new account.
